@@ -31,12 +31,14 @@ body:
   - type: dropdown
     id: test-type
     attributes:
-      label: Type of Test Conducted
-      description: Select the type of test you conducted.
+      label: Testing Scenario Conducted
+      description: Select the testing scenario you conducted.
       options:
-        - Stress Testing
-        - Bet Testing
-        - Other
+        - Cheat Bet
+        - Odds Comparison
+        - Arbitrage Strategy
+        - System Flaw Exploration
+        - Bug Patterns
     validations:
       required: true
 
