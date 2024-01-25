@@ -1,23 +1,16 @@
-# Azuro Live Betting Test Challenge🌟
+# Live Betting Incentivized Testnet 🏆
 
 ## Objective
 Help us identify and resolve potential issues in our live betting platform by participating in targeted testing activities.
 
-## How to Participate
-Engage in various test scenarios outlined below, and report your findings. Your insights are invaluable in helping us improve!
-
 ## Testing Scenarios 🧪
 
-### Category 1: Stress Testing
-- **Goal**: Place a high volume of bets in a short period to test the server's capacity.
-- **Note**: Do not use DDoS attacks; only legitimate betting activities.
+**How to Participate:** Engage in various test scenarios outlined below, and report your findings using our [GitHub issue form](https://github.com/Azuro-protocol/Live-Betting-Bug-Report/issues). Your insights are invaluable in helping us improve!
 
-### Category 2: Bet Testing
-- **Aftergoal Bet**: Try placing a bet after the outcome of an event is already known.
-- **Odds Comparison**: Report any instances where our odds significantly differ from other platforms.
-- **Arbitrage Strategy**: Experiment with arbitrage strategies like betting on conflicting outcomes and report your findings.
-- **System Flaw Exploration**: If you find any exploitable flaws in the system, let us know.
-- **Bug Patterns**: Look out for any patterns in bet acceptance, especially incorrect data or delays in transaction confirmations.
+- **Cheat Bet:** Try placing a bet right after the outcome of an event is already known (e.g. you manage to place a bet that a goal will be scored, right after the goal has been scored already).
+- **Odds Discrepancies:** Report any instances where our odds significantly differ from other platforms.
+- **System Flaw Exploration:** If you find any exploitable flaws in the system, let us know.
+- **Bug Patterns:** Look out for any patterns in bet acceptance, especially incorrect data or delays in transaction confirmations.
 
 ## Reporting Issues 📝
 
@@ -30,10 +23,12 @@ Found an issue? Report it in this repository via **Issues** --> **New Issue** --
 
 ## Rewards for Contributions 💰
 
-Earn points based on the severity and impact of the bugs you report. We'll assign the labels after reviewing your submission.
+- Earn points for reporting bugs based on their severity and impact. Our team will assign Priority Level and Processing Status labels to your reported issues. Expect to receive points within 10 days of issue acceptance. 🏷️
 
-### Priority Levels
-- **Critical**: 40 points 🔴
-- **High**: 30 points 🔵
-- **Medium**: 20 points 🟢
-- **Low**: 10 points 🟡
+- **Priority Levels**:
+    - Critical (10 000 000 Azuro Score points)
+    - High (2 000 000 Azuro Score points)
+    - Medium (1 000 000 Azuro Score points)
+    - Low (100 000 Azuro Score points)
+    - Already reported (0 points)
+    - Not an issue (0 points)
